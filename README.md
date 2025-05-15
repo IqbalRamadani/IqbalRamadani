@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on startup company
 - 📫 Follow me on IG @iqbaal_ramadaani
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm INTJ
 
 <!---
 IqbalRamadani/IqbalRamadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
